@@ -39,7 +39,7 @@ python manage.py runserver
 | Livia Schendroski | [linkedin.com/in/livia-schendroski](https://linkedin.com/in/livia-schendroski) |
 | Yara Nascimento | [linkedin.com/in/yara-nascimento](https://linkedin.com/in/yara-nascimento) |
 
-Projeto Interdisciplinar — 4º Semestre
+Projeto Interdisciplinar — 3º Semestre
 
 ---
 *Projeto acadêmico.*
